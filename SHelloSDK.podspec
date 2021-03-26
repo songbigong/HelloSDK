@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SHelloSDK'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   
   s.summary          = 'A short description of HelloSDK.HelloSDK a base request service'
   s.description      = 'HelloSDK a base request service HelloSDK a base request service HelloSDK a base request service'
